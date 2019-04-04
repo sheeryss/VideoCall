@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tony19:logback-android-core:1.1.1-5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-5/896dad3f097d92c60780b3e4fddf3378c14b298/logback-android-core-1.1.1-5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-5/7c5fe7c6e3bfd40932c0e85738402f66630cdc05/logback-android-core-1.1.1-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
