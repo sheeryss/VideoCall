@@ -8,6 +8,7 @@ public class Constant {
 
     static {
         String sdk = "undefined";
+		
         try {
             sdk = RtcEngine.getSdkVersion();
         } catch (Throwable e) {
